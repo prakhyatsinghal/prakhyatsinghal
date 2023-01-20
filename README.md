@@ -63,6 +63,9 @@
       <a href="https://www.mysql.com/">
 	   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 	</a>
+	<a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="github" />&nbsp;&nbsp;
+	</a>
 	<a href="https://git-scm.com/">
 	   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />&nbsp;&nbsp;
 	</a>
@@ -74,12 +77,22 @@
 <br />
 
 <br>
-<p align="center">
+<!-- <p align="center">
   <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api?username=prakhyatsinghal&show_icons=true&theme=bear&count_private=true&include_all_commits=true" alt="JayB's github stats" />
   <img height="150em" src="https://github-readme-stats-coral-nu.vercel.app/api/top-langs/?username=prakhyatsinghal&theme=bear&layout=compact&include_all_commits=true" alt="JayB's github top languages" />
+</p> -->
+	
+<p align="center">
+<a href="https://github.com/prakhyatsinghal">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prakhyatsinghal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prakhyatsinghal&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhyatsinghal&theme=tokyonight"/>	
+</a>
 </p>
 
-<p align="center">
+	
+
+<!-- <p align="center">
     <img  height="150em" alt="Prakhyat's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=prakhyatsinghal&theme=bear&include_all_commits=true"/>
   <br>
-  <br>
+  <br> -->
