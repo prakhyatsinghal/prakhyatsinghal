@@ -75,6 +75,9 @@
     <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />&nbsp;&nbsp;
 	</a>
+	<a href ="www.aws.com/">
+		<img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+	</a>
 
 <br />
 <br />
